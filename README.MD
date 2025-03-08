@@ -77,6 +77,7 @@
   - <b>Entity Framework Core:</b> ORM for data management.<br />
   - <b>RESTful API Design:</b> Ensures clear and effective communication
   endpoints.<br />
+  - <b>Application Insights:</b> Integrated for monitoring and telemetry.<br />
   - <b>Dependency Injection:</b> Used throughout to promote loose coupling and
   enhanced testability.<br />
 </p>
